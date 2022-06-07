@@ -1,0 +1,9 @@
+/* src/app/task/task.component.css */
+:host {
+  display: block;
+}
+
+.item {
+  margin-bottom: 10px;
+  cursor: pointer;
+}

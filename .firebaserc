@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-test-f1571": {
+      "hosting": {
+        "test2": [
+          "fir-test-f1571"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-test-f1571"
+  }
+}
